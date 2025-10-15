@@ -19,3 +19,4 @@ import studio5.tests.SubstituteAllTestSuite;
 public class MethodsTestSuite {
 
 }
+
